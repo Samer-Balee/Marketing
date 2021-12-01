@@ -25,20 +25,20 @@ We got a starter code that needs to modify by:
 ## Usage
 
 . Adding a semantic HTML elements . 
-    ```md
+    
     ![alt text](assets/images/semantic-html.PNG)
     
 . Adding comments to CSS file 
-    ```md
-    ![alt text](assets/images/semantic-html.PNG)
+    
+    ![alt text](assets/images/add-comments-css.PNG)
 
 . Adding alt attribute 
-    ```md
-    ![alt text](assets/images/alt-atributes.png)
+    
+    ![alt text](assets/images/alt-atributes.PNG)
 
 . pushing code to git 
-    ```md
-    ![alt text](assets/images/pushing-code-to-github.png)gi
+    
+    ![alt text](assets/images/pushing-code-to-github.PNG)
 
 
 
