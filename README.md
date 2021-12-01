@@ -12,45 +12,35 @@ We got a starter code that needs to modify by:
 
 ## Instalation
 
-1. Create a new repository on your GitHub account and clone it to your computer.
+Please use the following link to view the web page after refacroring : https://samer-balee.github.io/Marketing/
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push` commands to save and push your code to your GitHub repository.
-
-3. Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
-
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
-
-5. Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live.
+Github link : https://github.com/Samer-Balee/Marketing
 
 ## Usage
 
 . Adding a semantic HTML elements . 
-    
-    ```md
-    ![alt text](assets/images/semantic-html.PNG)
-    ```
+```md
+![alt text](assets/images/semantic-html.PNG)
+```    
    
     
 . Adding comments to CSS file 
-   
-    ```md
-    ![alt text](assets/images/add-comments-css.PNG)
-    ```
+```md
+![alt text](assets/images/add-comments-css.PNG)
+```
    
 
 . Adding alt attribute 
-  
-    ```md
-    ![alt text](assets/images/alt-atributes.PNG)
-    ```
+```md
+![alt text](assets/images/alt-atributes.PNG)
+```   
       
     
 
 . pushing code to git 
-  
-    ```md
-    ![alt text](assets/images/pushing-code-to-github.PNG)
-    ```
+```md
+![alt text](assets/images/pushing-code-to-github.PNG)
+```
       
  
 
