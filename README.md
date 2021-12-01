@@ -30,15 +30,15 @@ We got a starter code that needs to modify by:
     
 . Adding comments to CSS file 
     ```md
-    ![alt add-comments-css](assets/images/add-comments-css.png)
+    ![alt text](assets/images/semantic-html.PNG)
 
 . Adding alt attribute 
     ```md
-    ![alt alt-atributes](assets/images/alt-atributes.png)
+    ![alt text](assets/images/alt-atributes.png)
 
 . pushing code to git 
     ```md
-    ![alt pushing-code-to-github](assets/images/pushing-code-to-github.png)
+    ![alt text](assets/images/pushing-code-to-github.png)gi
 
 
 
