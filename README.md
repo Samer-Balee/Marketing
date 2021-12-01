@@ -24,7 +24,10 @@ We got a starter code that needs to modify by:
 
 ## Usage
 
-. Adding a semantic HTML elements ![alt semantic-html](assets/images/semantic-html.png)
+. Adding a semantic HTML elements .
+     ```md
+    ![alt semantic-html](assets/images/semantic-html.png)
+
 
 . Adding comments to CSS file ![alt add-comments-css](assets/images/add-comments-css.png)
 
