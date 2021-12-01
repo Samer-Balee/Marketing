@@ -24,17 +24,21 @@ We got a starter code that needs to modify by:
 
 ## Usage
 
-. Adding a semantic HTML elements .
-     ```md
-    ![alt semantic-html](assets/images/semantic-html.png)
+. Adding a semantic HTML elements . 
+    ```md
+    ![alt text](assets/images/semantic-html.PNG)
+    
+. Adding comments to CSS file 
+    ```md
+    ![alt add-comments-css](assets/images/add-comments-css.png)
 
+. Adding alt attribute 
+    ```md
+    ![alt alt-atributes](assets/images/alt-atributes.png)
 
-. Adding comments to CSS file ![alt add-comments-css](assets/images/add-comments-css.png)
-
-. Adding alt attribute ![alt alt-atributes](assets/images/alt-atributes.png)
-
-. pushing code to git ![alt pushing-code-to-github](assets/images/pushing-code-to-github.png)
-
+. pushing code to git 
+    ```md
+    ![alt pushing-code-to-github](assets/images/pushing-code-to-github.png)
 
 
 
